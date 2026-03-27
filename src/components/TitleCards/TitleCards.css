@@ -23,6 +23,8 @@
 }
 .card-list .card p{
     position: absolute;
-    bottom: 0;
+    bottom: 8px;
     right: 10px;
+    text-decoration: none;
+    color: white;
 }
